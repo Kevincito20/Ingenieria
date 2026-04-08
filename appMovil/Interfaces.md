@@ -1,0 +1,48 @@
+## [[I01-Pantalla de inicio]]
+- [[I01-Pantalla de inicio#Header|Header]]
+- [[I01-Pantalla de inicio#Búsqueda de medicamentos|Búsqueda de medicamentos]]
+- [[I01-Pantalla de inicio#Modulo de recetas actuales|Medicamentos Actuales (Current Medications)]]
+- [[I01-Pantalla de inicio#Módulo de Dispensadores Frecuentes|Máquinas recurrentes]]
+
+## [[2-Diseño]]
+- [[2-Diseño#Ver mapa|Ver Mapa]]
+
+
+
+## Recetas
+- Listado de recetas
+- Estado de la receta
+- Tipo de receta
+- Compra con recetas
+- Cards de recetas
+- Historial de compras
+- Notificaciones
+
+## Perfil
+- Nombre completo 
+- foto 
+- edad
+- Dirección 
+- Numero de teléfono 
+- Numero de teléfono de persona responsable 
+- Tipo de sangre 
+- Sexo (Masculino, Femenino)
+- Seguro (Privado, publico)
+
+### Perfil medico del usuario
+
+- Nombre 
+- Sexo 
+- Tipo de sangre 
+- Alérgenos 
+- Enfermedades crónicas 
+- Historial medico 
+- Notas y recetas anteriores
+## Búsqueda de medicamentos 
+
+
+## Sistema
+- Notificaciones push
+- Permisos de gps
+- Permiso de cámara
+- Permiso de galería 

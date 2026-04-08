@@ -1,0 +1,4 @@
+*.lnk
+desktop.ini
+.env
+.obsidian/workspace.json
