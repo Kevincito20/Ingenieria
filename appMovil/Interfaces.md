@@ -4,8 +4,8 @@
 - [[I01-Pantalla de inicio#Modulo de recetas actuales|Medicamentos Actuales (Current Medications)]]
 - [[I01-Pantalla de inicio#Módulo de Dispensadores Frecuentes|Máquinas recurrentes]]
 
-## [[2-Diseño]]
-- [[2-Diseño#Ver mapa|Ver Mapa]]
+## [[2- Modulo MAQUINA EXPENDEDORA]]
+- [[2- Modulo MAQUINA EXPENDEDORA#Ver mapa|Ver Mapa]]
 
 
 

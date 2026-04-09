@@ -54,25 +54,11 @@ Modulo centrado en mostrar al usuario una previsualización de recetas vigentes.
 ## Módulo de Dispensadores Frecuentes
 [[Requisitos funcionales Generales#^c5a81e|Requisito funcional 001]]
 
-**Descripción del modulo:**
-Interfaz de usuario orientada a la fidelización y acceso rápido, diseñada para mostrar al paciente los nodos de dispensación (máquinas) con los que interactúa habitualmente o que se encuentran en su proximidad inmediata.
-
-**Especificaciones de Interfaz (UI/UX):**
-* **Título de la Sección:** "Tus máquinas frecuentes"
-* **Layout:** Cuadrícula responsiva (Grid/Flexbox), optimizada para mostrar tarjetas medianas en una disposición de dos columnas (2 por fila en pantallas adecuadas).
-
-**Datos Dinámicos por Tarjeta:**
-1. **Identificador del Nodo:** Nombre comercial o ubicación física (ej. *Expendedora Plaza Central*).
-2. **Telemetría IoT (Tiempo Real):** Indicador visual de estado de red.
-   * 🟢 **Operativo:** Hardware en línea y funcional.
-   * 🔴 **Fuera de servicio:** Error de conexión o mantenimiento.
-3. **Control de Stock:** Nivel de abastecimiento general del dispensador, expresado en porcentaje o métrica cualitativa (ej. *Nivel de inventario: 85%* o *Abastecimiento: Alto*). (*Opcional*)
-4. **Geolocalización:** Distancia estimada desde la ubicación actual del usuario mediante GPS (ej. *a 1.2 km*).
+Consultar [[2- Modulo MAQUINA EXPENDEDORA#Descripción del modulo|Descripción del módulo]]
 
 
 
-
- 	![[Maquinas_cercanas.png]]
+ 
 
 
 # Faltantes 

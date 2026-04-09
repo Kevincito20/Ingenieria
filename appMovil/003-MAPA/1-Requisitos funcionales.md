@@ -26,7 +26,7 @@ _Estos requisitos describen las acciones específicas que el sistema y el usuari
         
         - **Mantenimiento:** En proceso de revisión técnica.
         
-- **RF-05: Barra de Búsqueda**
+- **RF-05: Barra de Búsqueda** (Fase 2 )
     
     - El sistema debe incluir un campo de texto que permita al usuario buscar máquinas específicas introduciendo una dirección, punto de referencia o el código de la máquina.
         

@@ -219,7 +219,7 @@ Permite al paciente buscar medicamentos por nombre comercial, principio activo o
 |**Genérico obligatorio**|Legal|La sugerencia de genérico debe mostrarse y registrarse antes de confirmar compra de marca.|Ley 83/2012 / BR-M04|Campo generico_equivalente_id NOT NULL justificado|
 |**Stock verificado en backend**|Integridad|El stock mostrado en búsqueda se verifica nuevamente al crear la orden.|BR-I06 / BR-L05|Verificación doble: UI + orden|
 
-[[2-Diseño]]
+[[2- Modulo MAQUINA EXPENDEDORA]]
 
 # Módulo MAPA — Expendedoras
 
