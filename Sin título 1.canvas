@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"58a66401b77534d0","x":-63,"y":340,"width":126,"height":400,"type":"file","file":"appMovil/001-INICIO/IMG/Pantalla de inicio.png"}
+	],
+	"edges":[]
+}

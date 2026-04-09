@@ -1,3 +1,6 @@
 {
-  "showRibbon": true
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "paleta_colores"
+  ]
 }

@@ -1,7 +1,7 @@
 
 
 
-[[I01-Pantalla de inicio]]LOGIN
+[[2. Interface]]LOGIN
 
 
 | REGISTRAR USUARIO                                                       |
@@ -86,7 +86,7 @@
 |**Consentimiento ROPA**|Legal|Timestamp y versión del aviso aceptado registrados.|Ley 81 Art.5|Tabla consent_log|
 
 
-[[I01-Pantalla de inicio]]
+[[2. Interface]]
 
 # 4. Módulo INICIO — Pantalla Principal
 

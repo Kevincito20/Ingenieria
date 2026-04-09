@@ -1,8 +1,8 @@
-## [[I01-Pantalla de inicio]]
-- [[I01-Pantalla de inicio#Header|Header]]
-- [[I01-Pantalla de inicio#Búsqueda de medicamentos|Búsqueda de medicamentos]]
-- [[I01-Pantalla de inicio#Modulo de recetas actuales|Medicamentos Actuales (Current Medications)]]
-- [[I01-Pantalla de inicio#Módulo de Dispensadores Frecuentes|Máquinas recurrentes]]
+## [[2. Interface]]
+- [[2. Interface#Header|Header]]
+- [[2. Interface#Búsqueda de medicamentos|Búsqueda de medicamentos]]
+- [[2. Interface#Modulo de recetas actuales|Medicamentos Actuales (Current Medications)]]
+- [[2. Interface#Módulo de Dispensadores Frecuentes|Máquinas recurrentes]]
 
 ## [[2- Modulo MAQUINA EXPENDEDORA]]
 - [[2- Modulo MAQUINA EXPENDEDORA#Ver mapa|Ver Mapa]]
